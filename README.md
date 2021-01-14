@@ -12,9 +12,6 @@ More information about extending the content can be found [here](http://aurorabu
 - https://raw.githubusercontent.com/Sebastian-Whitehead/auroraDndContent/main/unearthed-arcana.index
 - https://raw.githubusercontent.com/Sebastian-Whitehead/auroraDndContent/main/third-party.index
 
-- https://raw.githubusercontent.com/community-elements/elements-reddit/master/reddit.index
-- https://raw.githubusercontent.com/community-elements/elements-dndwiki/master/dndwiki.index
-
 ### Community Driven Content
 A collection of community driven content can be found [here](http://aurorabuilder.com/content/#community "Community Driven Content") which includes some homebrew content posted on reddit and dnd wiki.
 
