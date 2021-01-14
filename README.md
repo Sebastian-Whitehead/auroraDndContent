@@ -7,7 +7,9 @@ To include this content:
 - Go to the 'Additional Content' tab in Aurora, 
 - Enter the URL of the index file, and click download. 
 - Next click 'Update Content Files' and let the program check the entered gitHub repositories.
-- Once complete a button will appear prompting a restart of the program. Once restarted all retrieved content files can me managed under the 'Sources' tab
+- Once complete a button will appear prompting a restart of the application. Once restarted all retrieved content files can me managed under the 'Sources' tab
+
+[Video Tutorial](https://www.youtube.com/watch?v=FAE9eSddqoc&feature=emb_logo/ "Video Turorial")
 
 When these files get updated, Aurora will be able to keep content files up to date automatically.
 
