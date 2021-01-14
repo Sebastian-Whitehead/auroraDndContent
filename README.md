@@ -1,4 +1,4 @@
-# Aurora
+# AuroraDndContent - Sebastian Whitehead
 Visit the [website](http://www.aurorabuilder.com "Aurora Website") for more information about the Aurora character builder and check out the [support page](http://www.aurorabuilder.com/support "Aurora Support Page") if you have any questions.<br> You can support the project by making a [donation](https://aurorabuilder.com/donate/).
  - Note this is a copy of the original gitHub repository and therefore does not qualify for support from the creators
 
